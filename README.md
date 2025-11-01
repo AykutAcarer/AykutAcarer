@@ -93,6 +93,7 @@ Automated system that handles orders and customer communication through **WhatsA
   <a href="mailto:aykutacarer@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/AykutAcarer"><img src="https://skillicons.dev/icons?i=github" height="50"></a>
+  <a href="https://upwork.com/freelancers/~014712f45c2e3763ed?mp_source=share"><img src="https://skillicons.dev/icons?i=upwork" height="50"></a>
 </p>
 
 ---
