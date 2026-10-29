@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:1f4068&height=250&section=header&text=Aykut%20Acarer%20👋&fontColor=ffffff&fontSize=45&fontAlignY=40" alt="banner" />
 </p>
 
-<h2 align="center">Software Developer | AI & Automation Specialist 🤖</h2>
+<h2 align="center">Software Developer🤖</h2>
 
 <p align="center">
   <a href="https://github.com/AykutAcarer?tab=followers"><img src="https://img.shields.io/github/followers/AykutAcarer?color=1f6feb&style=for-the-badge&logo=github"></a>
