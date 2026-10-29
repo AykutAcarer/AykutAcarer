@@ -24,11 +24,12 @@ German IHK-certified software developer focused on AI-assisted web development a
 
 | Category | Tools & Technologies |
 |-----------|---------------------|
-| **🧠 AI Tools & Frameworks** | n8n · ElevenLabs · OpenAI API · Claude · Gemini · CoPilot |
+| **🧠 AI and Automation** | Claude API · OpenAI API · AI coding agents · Prompt Engineering · Gemini · n8n · ElevenLabs · Twilio|
 | **💻 Programming** | PHP · Java · MySQL · JSON · XML |
-| **🧩 Frameworks & Tools** | Laravel · Bootstrap · Git/GitHub |
-| **🧪 Development Approach** | OOP · Agile (Scrum) · Full-Stack Development |
-| **🚀 Deployment** | Web & Mobile Hosting Services |
+| **💻 AI Governance** | ISO/IEC 42001, AI risk management, audit planning and execution |
+| **🧩 Frameworks & CMS** | WordPress · Bootstrap · Laravel |
+| **🧪 Development Approach** | OOP · Agile (Scrum) |
+| **🚀 Tools and Deployment** | Git/GitHub · VS Code · Vercel|
 
 ---
 
