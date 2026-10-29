@@ -15,10 +15,8 @@
 
 ## 🧠 About Me
 
-Hi there! I'm **Aykut Acarer**, a **Software Developer** passionate about building **AI-powered automation systems** that simplify complex workflows.  
+German IHK-certified software developer focused on AI-assisted web development and AI governance under ISO/IEC 42001. Builds web applications and websites with current web technologies and AI coding agents, grounded in solid backend knowledge, including review of generated code for quality and security; two projects live in production.
 
-💡 I specialize in connecting **AI models**, **automation tools**, and **communication platforms** like WhatsApp, Telegram, and email to create **end-to-end intelligent business solutions**.  
-⚙️ Currently focused on **voice assistants**, **workflow orchestration with n8n**, and **AI process automation**.
 
 ---
 
