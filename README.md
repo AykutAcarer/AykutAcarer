@@ -44,6 +44,12 @@ German IHK-certified software developer focused on AI-assisted web development a
 
 ## 🔥 Featured Projects
 
+### 🧾 [AI-Assisted Family Budget App (PWA)](https://github.com/AykutAcarer/fam-budget)
+> Designed and built a mobile-first web app for income, fixed costs, expenses and debts; installable on Android/iOS and usable offline
+Integrated the Claude API for expense entry via free-text chat, with a rule-based fallback when the AI is unavailable
+Safeguarded AI output: calculations run only in code, every number in AI responses is validated automatically, API key kept server-side
+Developed with AI coding agents (React, TypeScript, Supabase); owned architecture, security design and code review.
+
 ### 🧾 [DocumentManagementSystem](https://github.com/AykutAcarer/DocumentManagementSystem)
 > A document management app supporting CRUD operations, access control, and metadata management using **Laravel** and **MySQL**.
 
