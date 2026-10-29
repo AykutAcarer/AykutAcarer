@@ -35,6 +35,7 @@ German IHK-certified software developer focused on AI-assisted web development a
 
 ## 🏅 Certifications
 
+- 🧾 ISO/IEC 42001:2023 IT - Articial Intelligence Management System Lead Auditor
 - 🧾 ISO/IEC 42001:2023 – *Artificial Intelligence Management System Foundations*  
 - 🎓 *AI Literacy and Content Creation*  
 - 💼 *Fachinformatiker für Anwendungsentwicklung (IHK Certified)*  
