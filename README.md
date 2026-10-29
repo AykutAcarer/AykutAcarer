@@ -50,20 +50,19 @@ Integrated the Claude API for expense entry via free-text chat, with a rule-base
 Safeguarded AI output: calculations run only in code, every number in AI responses is validated automatically, API key kept server-side
 Developed with AI coding agents (React, TypeScript, Supabase); owned architecture, security design and code review.
 
+### 🧾 [Website for a Human Rights Organization](https://pourchaquevictime.org/)
+> Built the French-language website with WordPress, live in production since 02/2026
+Structured pages for case reports, publications, contact and donations, plus legally required pages.
+
 ### 🧾 [DocumentManagementSystem](https://github.com/AykutAcarer/DocumentManagementSystem)
 > A document management app supporting CRUD operations, access control, and metadata management using **Laravel** and **MySQL**.
 
+### 🎙️ [AI Automations with n8n](https://github.com/AykutAcarer/siparis-yonetim-sistemi)
+> Developed workflows with n8n and OpenAI API: AI phone assistant for orders (Twilio, ElevenLabs), order handling via WhatsApp and Telegram, email automation
+Technologies: OpenAI API, n8n, Webhooks, Twilio, Elevenlabs.
+
 ### 🎙️ [transcribe-ai](https://github.com/AykutAcarer/transcribe-ai)
 > AI-powered transcription system integrating **OpenAI Whisper API** and **n8n** for automated audio-to-text conversion.
-
-### 🏠 [Bot4_RealEstateWebScraping](https://github.com/AykutAcarer/Bot4_RealEstateWebScraping)
-> Automated **real estate data scraper** in **Java**, exporting structured data to **JSON/XML**.
-
-### ✉️ [Bot6_EmailAutomation](https://github.com/AykutAcarer/Bot6_EmailAutomation)
-> Intelligent **email automation bot** using **n8n** for dynamic message parsing and response workflows.
-
-### 📄 [Bot5_PDFDataScraping](https://github.com/AykutAcarer/Bot5_PDFDataScraping)
-> Extracts and transforms PDF data with **AI-driven text classification** and **automation flows**.
 
 ---
 
